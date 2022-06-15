@@ -28,7 +28,7 @@ form input[type=text], form input[type=password] {
     border-radius: 100rem;
     color: white;
     display: block;
-    background-color: transparent;
+    background-color: whitesmoke;
     border: 1px solid white;
     padding: 0.6rem 1rem;
     width: 350px;

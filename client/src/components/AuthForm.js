@@ -51,7 +51,7 @@ export class AuthForm extends Component {
         style={{ ...this.props.style }}
         className='flexbox cu uc full vertical p4'>
 
-        <h1>Authenticate</h1>
+        <h1>Authentication</h1>
 
         <Spacer height='0.75rem'></Spacer>
 
