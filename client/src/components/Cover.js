@@ -21,13 +21,15 @@ export class Cover extends Component {
                     <h1>Draw anything.</h1>
                     <h1>Collaborate on ideas.</h1>
                     <h1>But, together.</h1>
-
+                    <h1>Great Minds, Think Together</h1>
                     <Spacer height='6rem'></Spacer>
 
-                    <span style={{ fontSize: '0.8em' }}>This application is built using the MERN stack, with MongoDB, Express, React and Node.js. This instance is a project demonstration only and not meant for production.</span>
+                    <span style={{ fontSize: '0.8em' }}>This application is built using the MERN stack, with MongoDB, Express, React and Node.js. This instance is a college project demonstration only and not meant for production.</span>
                     <span style={{ fontSize: '0.8em' }} className='mt-1'>It utilises socket.io for real-time drawing and chat messages, and  for working with HTML canvases</span>
                 </div>
+                <footer>  Built for CEMK Final Year Project </footer>
             </div>
+            
         )
     }
 }
