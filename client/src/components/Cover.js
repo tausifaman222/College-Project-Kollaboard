@@ -15,7 +15,9 @@ export class Cover extends Component {
                     </div>
 
                     <Spacer height='1rem'></Spacer>
-//{/*  */}
+{/*  */}                    
+                    <h1> //\\     KollaBoard    //\\</h1>   
+
                     <h1>Draw anything.</h1>
                     <h1>Collaborate on ideas.</h1>
                     <h1>But, together.</h1>
