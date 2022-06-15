@@ -14,7 +14,8 @@ a {
 }
 
 body {
-    background-color: rgb(200, 22, 200);
+    background: rgb(221,7,171);
+    background: linear-gradient(90deg, rgba(221,7,171,1) 0%, rgba(98,9,121,1) 35%, rgba(185,0,254,1) 100%);
     color: white;
 }
 
