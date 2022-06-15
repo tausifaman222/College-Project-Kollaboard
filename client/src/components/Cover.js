@@ -15,11 +15,10 @@ export class Cover extends Component {
                     </div>
 
                     <Spacer height='1rem'></Spacer>
-                    <img src="kollab.png" style="width:100%;height:auto;"></img>
 
                     <h1>Draw anything.</h1>
                     <h1>Collaborate on ideas.</h1>
-                    <h1>Great Minds , Think Together</h1>
+                    <h1>But, together.</h1>
 
                     <Spacer height='6rem'></Spacer>
 
