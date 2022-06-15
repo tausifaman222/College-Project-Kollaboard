@@ -30,7 +30,7 @@ form input[type=text], form input[type=password] {
     color: blueviolet;
     display: block;
     background-color: whitesmoke;
-    border: 1px solid white;
+    border: 1px solid rgb(10, 1, 1);
     padding: 0.6rem 1rem;
     width: 350px;
     margin-bottom: 0.5rem;
@@ -49,7 +49,7 @@ form.dark input[type=text], form.dark input[type=password] {
     padding: 0.6rem 1rem;
     width: 350px;
     margin-bottom: 0.5rem;
-
+    
     transition-duration: 200ms;
 }
 
