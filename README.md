@@ -1,5 +1,6 @@
 # Kollaboard
-Draw anything. Collaborate on ideas. But, together. This application is built using the MERN stack, with MongoDB, Express, React and Node.js. This instance is a project demonstration only and not meant for production.
+Draw anything. Collaborate on ideas. But, together. This application is built using the MERN stack, with MongoDB, Express, React and Node.js. This instance is a project demonstration only and not meant for production. 
+Built for CEMK Final Year Project 
 It utilises socket.io for real-time drawing and chat messages, and needlessjs for working with HTML canvases.
 
 # Why tho?
